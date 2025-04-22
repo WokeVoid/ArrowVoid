@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArrowVoid
+- 👋 Hi, I’m @WokeVoid
 - 👀 I’m interested in programming, sewing, game development, writing, drawing, cyber security, languages and history.
 - 🌱 I’m currently learning how to use R.
 - 📫 How to reach me linktr.ee/arrowvoid
